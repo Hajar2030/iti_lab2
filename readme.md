@@ -25,4 +25,4 @@
 - delete tag remotely
 >> git push origin --delete v1.7
 
-![GitHub Logo](https://github.com/images/logo.png)
+![GitHub Logo](https://www.shutterstock.com/shutterstock/photos/2492842415/display_1500/stock-photo-blond-hair-girl-taking-photo-with-camera-in-wheat-field-2492842415.jpg)
